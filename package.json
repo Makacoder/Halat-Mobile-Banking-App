@@ -6,6 +6,7 @@
   "repository": "https://github.com/Makacoder/Halat-Mobile-Banking-App",
   "author": "Makanaki",
   "license": "MIT",
+  
   "scripts": {
     "dev": "nodemon ./src/app.js"
   },
