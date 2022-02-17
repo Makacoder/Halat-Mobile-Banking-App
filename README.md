@@ -7,5 +7,5 @@ In this pattern, we show how to create endpoints for users, viewing user's data 
 ### Postman Documentation
 [HALAT Mobile Banking APP](https://www.postman.com/payload-candidate-35796187/workspace/halat-banking-app)
 
-Copyright(C). 2022 Maka Inc.
+Copyright(c) Maka Inc. 2022
 All rights reserved.
